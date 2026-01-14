@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://famous-kangaroo-e4843d.netlify.app/sitemap.xml
